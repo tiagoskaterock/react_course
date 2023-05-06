@@ -4,7 +4,6 @@ import './ExpenseItem.css'
 
 function ExpenseItem(props) {
 
-
     return (
         <div className="expense-item">
 
@@ -18,4 +17,4 @@ function ExpenseItem(props) {
     )
 }
 
-export default ExpenseItem;
+export default ExpenseItem
