@@ -5,9 +5,7 @@ import './Expenses.css'
 const Expenses = props => {
 
 	return (
-		<div>
-
-			<h2>Let's get started!</h2>
+		<div>			
 
 			<Card className="expenses">
 				<ExpenseItem 
